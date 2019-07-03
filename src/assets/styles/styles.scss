@@ -1,0 +1,15 @@
+@import './variables/colors';
+
+* {
+  box-sizing: border-box;
+  color: $blue;
+}
+
+.app-container {
+
+}
+
+.app-left {
+  height: 100vh;
+  overflow-x: scroll;
+}
